@@ -1,0 +1,9 @@
+# live-build artifacts
+config/chroot
+config/cache
+config/binary
+*.iso
+*.img
+*.zsync
+*.build
+*.buildlog
